@@ -1,0 +1,57 @@
+C++
+Nabil
+3
+250
+5
+Java
+Manajir
+2
+1500
+10
+C
+Anas
+2
+1000
+7
+Computer Fundamental
+Fahima
+2
+2000
+15
+Computer Archetecture
+Jarin
+2
+2000
+15
+Microprocessor
+Muhib
+4
+1200
+5
+Superman
+DC
+1
+150
+100
+Batman
+DC
+1
+200
+200
+Iron Man
+Marvel
+1
+500
+5000
+Bappy
+01712345678
+Agortola Hospital er pashe
+2
+Turin
+01532649871
+Police Line
+3
+Fahim
+01987654321
+Tomsom Bridge
+3
